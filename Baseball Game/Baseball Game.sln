@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basaball Game", "Basaball Game\Basaball Game.vcxproj", "{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Debug|x64.ActiveCfg = Debug|x64
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Debug|x64.Build.0 = Debug|x64
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Debug|x86.Build.0 = Debug|Win32
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Release|x64.ActiveCfg = Release|x64
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Release|x64.Build.0 = Release|x64
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Release|x86.ActiveCfg = Release|Win32
+		{D89E762F-A80E-4BA8-804E-8A3AF60AE5B8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4FBFC3-FA11-406D-B8DF-177E4B709368}
+	EndGlobalSection
+EndGlobal
